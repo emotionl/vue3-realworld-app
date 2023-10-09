@@ -5,6 +5,7 @@
         "brace-style": "off",
         "comma-dangle": "off",
         "@typescript-eslint/brace-style": "off",
-        "@typescript-eslint/comma-dangle": "off"
+        "@typescript-eslint/comma-dangle": "off",
+        "no-console": "off"
     }
 }
