@@ -17,3 +17,7 @@ export function formatDate(date: string): string {
     year: 'numeric',
   })
 }
+
+export function add(x: number, y: number) {
+  return x + y
+}
